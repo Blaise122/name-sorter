@@ -27,9 +27,6 @@ namespace SortingAssessment
                 ExportNames.exportNames(sorted);
             }
 
-
-
-
         }
     }
 }
